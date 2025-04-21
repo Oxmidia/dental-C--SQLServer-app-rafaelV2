@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Diagnostics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CreateAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Denture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\General exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Habits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\NewPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Patients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Quote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RecoveryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UserPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SowUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Treatments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="histodentDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
